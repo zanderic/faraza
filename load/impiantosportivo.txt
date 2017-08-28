@@ -1,0 +1,4 @@
+DLF,dlf@gmail.it,123,50,Bologna,Sebastiano Serlio,2,40128
+CUSB,cusb@gmail.it,123,40,Bologna,San Giacomo,2,40126
+Unipol Arena,unipol.arena@gmail.it,123,60,Casalecchio,Gino Cervi,2,40033
+La Pentola,lapentola@gmail.it,123,30,Torremaggiore,San Severo,8,71017 

@@ -1,0 +1,29 @@
+body {
+	background-image: url('./foto/field.jpg');
+	background-size: 1440px 900px;
+	padding-top:20px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.profile {
+    height: 200px;
+    width: 200px;
+}
+
+.carousel {
+	width: 350px;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    height: 350px;
+    width: 350px;
+    margin: auto;
+}
+

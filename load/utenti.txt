@@ -1,0 +1,15 @@
+Michele,Neri,michele.neri@gmail.it,123,123456  
+Francesco,Gialli,michele.galli@gmail.it,123,123456
+Alessandro,Fazio,alessandro.fazio@gmail.it,123,123456
+Antonio,Lorusso,antonio.lorusso@gmail.com,123,123456
+Guido,Mulatti,guido.mulatti@gmail.it,123,123456
+Attilio,Franceschi,attilio.franceschi@gmail.it,123,123456
+Gianni,Franceschini,gianni.franceschini@gmail.it,123,123456
+Giacomo,Verdi,giacomo.verdi@gmail.it,123,123456
+Vittorio,Feltri,vittorio.feltri@gmail.it,123,123456
+Fabio,Nocciola,fabio.nocciola@gmail.it,123,123456
+Niccolo,Mandorla,niccolo.mandorla@gmail.it,123,123456
+Francesco,Pistacchio,francesco.pistacchio@gmail.it,123,123456
+Michele,Coda,michele.coda@gmail.it,123,123456
+Paride,Mariani,paride.mariani@gmail.it,123,123456
+Federico,Messi,federico.messi@gmail.it,123,123456

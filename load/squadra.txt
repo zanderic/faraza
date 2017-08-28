@@ -1,0 +1,3 @@
+Inter,pubblica
+Juve,pubblica
+Milan,privata

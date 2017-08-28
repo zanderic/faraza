@@ -1,0 +1,11 @@
+1,BirraMoretti
+2,BirraMoretti
+1,ChampionsLeague
+2,ChampionsLeague
+3,ChampionsLeague
+1,CoppaDelNonno
+2,CoppaDelNonno
+3,CoppaDelNonno
+1,EuropaLeague
+2,EuropaLeague
+3,EuropaLeague
